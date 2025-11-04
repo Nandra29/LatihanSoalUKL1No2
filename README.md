@@ -4,4 +4,4 @@ Cara Kerja:-Program meminta user memasukkan angka.
            -Angka tersebut dibagi 2, dan program hanya melihat sisa pembagiannya (modulus).
            -Jika sisanya adalah 0,angka tersebut adalah genap.
            -Jika sisanya adalah 1,angka tersebut adalah ganjil.
-<img width="1263" height="283" alt="Screenshot 2025-11-04 071650" src="https://github.com/user-attachments/assets/f13f1122-9063-478e-84a0-ab693f470c34" />
+<img width="690" height="208" alt="Screenshot 2025-11-04 073042" src="https://github.com/user-attachments/assets/dc15066a-02ed-4e67-a1f7-5eb42c9306ea" />
